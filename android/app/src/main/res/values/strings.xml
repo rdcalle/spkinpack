@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">_GOUrgKnqJhiUi4f4FGsZj1f4eYS4kMv4IF7f</string>
+    <string name="app_name">bluetooth</string>
+</resources>
